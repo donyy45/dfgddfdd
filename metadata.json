@@ -1,0 +1,6 @@
+{
+  "name": "CinemaLingo - Batman Begins English Study",
+  "description": "Master English with the Batman Begins screenplay: chunked paragraphs, natural Arabic translations, vocabulary with example sentences, and idiom breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
